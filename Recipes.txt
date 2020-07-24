@@ -4,6 +4,9 @@ welcome to Telusko Kitchen
 
 Kheer
 pasta
-Chicken
+Chicken curry
+
+Beans
+Pizza
 
 Thank you :)
